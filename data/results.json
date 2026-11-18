@@ -32,7 +32,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:15.401707+00:00",
+    "fetched_at": "2026-11-18T20:56:50.251081+00:00",
     "quality_score": 42,
     "quality_label": "Mixed / stable"
   },
@@ -69,7 +69,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:15.401808+00:00",
+    "fetched_at": "2026-11-18T20:56:50.251203+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -106,7 +106,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:15.402877+00:00",
+    "fetched_at": "2026-11-18T20:56:50.252529+00:00",
     "quality_score": 6,
     "quality_label": "Weakening"
   },
@@ -143,7 +143,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:15.401856+00:00",
+    "fetched_at": "2026-11-18T20:56:50.251263+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -180,7 +180,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:15.401902+00:00",
+    "fetched_at": "2026-11-18T20:56:50.251336+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -217,7 +217,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:15.401935+00:00",
+    "fetched_at": "2026-11-18T20:56:50.251376+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -254,7 +254,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:15.403108+00:00",
+    "fetched_at": "2026-11-18T20:56:50.252832+00:00",
     "quality_score": 7,
     "quality_label": "Weakening"
   },
@@ -291,7 +291,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:15.403359+00:00",
+    "fetched_at": "2026-11-18T20:56:50.253127+00:00",
     "quality_score": 57,
     "quality_label": "Mixed / stable"
   },
@@ -328,7 +328,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:15.403585+00:00",
+    "fetched_at": "2026-11-18T20:56:50.253432+00:00",
     "quality_score": 39,
     "quality_label": "Weakening"
   },
@@ -365,7 +365,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:15.403697+00:00",
+    "fetched_at": "2026-11-18T20:56:50.253577+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -402,7 +402,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:14.623406+00:00",
+    "fetched_at": "2026-11-18T20:56:48.973714+00:00",
     "quality_score": 90,
     "quality_label": "Improving"
   },
@@ -439,7 +439,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:14.623522+00:00",
+    "fetched_at": "2026-11-18T20:56:48.973858+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -476,7 +476,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:14.624747+00:00",
+    "fetched_at": "2026-11-18T20:56:48.975368+00:00",
     "quality_score": 100,
     "quality_label": "Improving"
   },
@@ -513,7 +513,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:14.623607+00:00",
+    "fetched_at": "2026-11-18T20:56:48.973966+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -550,7 +550,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:14.623655+00:00",
+    "fetched_at": "2026-11-18T20:56:48.974025+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -587,7 +587,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:14.623701+00:00",
+    "fetched_at": "2026-11-18T20:56:48.974081+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -624,7 +624,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:14.623733+00:00",
+    "fetched_at": "2026-11-18T20:56:48.974119+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -661,7 +661,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:14.624976+00:00",
+    "fetched_at": "2026-11-18T20:56:48.975677+00:00",
     "quality_score": 89,
     "quality_label": "Improving"
   },
@@ -698,7 +698,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:14.625209+00:00",
+    "fetched_at": "2026-11-18T20:56:48.975973+00:00",
     "quality_score": 29,
     "quality_label": "Weakening"
   },
@@ -735,7 +735,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:14.625347+00:00",
+    "fetched_at": "2026-11-18T20:56:48.976124+00:00",
     "quality_score": 39,
     "quality_label": "Weakening"
   },
@@ -772,7 +772,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:13.678544+00:00",
+    "fetched_at": "2026-11-18T20:56:47.757054+00:00",
     "quality_score": 16,
     "quality_label": "Weakening"
   },
@@ -809,7 +809,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:13.678658+00:00",
+    "fetched_at": "2026-11-18T20:56:47.757197+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -846,7 +846,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:13.679791+00:00",
+    "fetched_at": "2026-11-18T20:56:47.758654+00:00",
     "quality_score": 26,
     "quality_label": "Weakening"
   },
@@ -883,7 +883,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:13.678743+00:00",
+    "fetched_at": "2026-11-18T20:56:47.757320+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -920,7 +920,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:13.678790+00:00",
+    "fetched_at": "2026-11-18T20:56:47.757379+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -957,7 +957,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:13.678835+00:00",
+    "fetched_at": "2026-11-18T20:56:47.757435+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -994,7 +994,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:13.678867+00:00",
+    "fetched_at": "2026-11-18T20:56:47.757473+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -1031,7 +1031,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:13.680020+00:00",
+    "fetched_at": "2026-11-18T20:56:47.758957+00:00",
     "quality_score": 94,
     "quality_label": "Improving"
   },
@@ -1068,7 +1068,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:13.680288+00:00",
+    "fetched_at": "2026-11-18T20:56:47.759252+00:00",
     "quality_score": 5,
     "quality_label": "Weakening"
   },
@@ -1105,7 +1105,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:13.680413+00:00",
+    "fetched_at": "2026-11-18T20:56:47.759418+00:00",
     "quality_score": 62,
     "quality_label": "Mixed / stable"
   },
@@ -1142,7 +1142,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:12.722215+00:00",
+    "fetched_at": "2026-11-18T20:56:46.442228+00:00",
     "quality_score": 66,
     "quality_label": "Mixed / stable"
   },
@@ -1179,7 +1179,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:12.722353+00:00",
+    "fetched_at": "2026-11-18T20:56:46.442386+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -1216,7 +1216,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:12.722456+00:00",
+    "fetched_at": "2026-11-18T20:56:46.442515+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -1253,7 +1253,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:12.723757+00:00",
+    "fetched_at": "2026-11-18T20:56:46.444142+00:00",
     "quality_score": 37,
     "quality_label": "Weakening"
   },
@@ -1290,7 +1290,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:12.722539+00:00",
+    "fetched_at": "2026-11-18T20:56:46.442620+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -1327,7 +1327,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:12.722585+00:00",
+    "fetched_at": "2026-11-18T20:56:46.442675+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -1364,7 +1364,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:12.722629+00:00",
+    "fetched_at": "2026-11-18T20:56:46.442729+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -1401,7 +1401,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:12.722662+00:00",
+    "fetched_at": "2026-11-18T20:56:46.442766+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -1438,7 +1438,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:12.723992+00:00",
+    "fetched_at": "2026-11-18T20:56:46.444465+00:00",
     "quality_score": 44,
     "quality_label": "Mixed / stable"
   },
@@ -1475,7 +1475,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:12.724256+00:00",
+    "fetched_at": "2026-11-18T20:56:46.444761+00:00",
     "quality_score": 100,
     "quality_label": "Improving"
   },
@@ -1512,7 +1512,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:12.724493+00:00",
+    "fetched_at": "2026-11-18T20:56:46.445050+00:00",
     "quality_score": 73,
     "quality_label": "Improving"
   },
@@ -1549,7 +1549,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:12.724611+00:00",
+    "fetched_at": "2026-11-18T20:56:46.445193+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -1586,7 +1586,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:11.764431+00:00",
+    "fetched_at": "2026-11-18T20:56:45.090949+00:00",
     "quality_score": 60,
     "quality_label": "Mixed / stable"
   },
@@ -1623,7 +1623,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:11.764546+00:00",
+    "fetched_at": "2026-11-18T20:56:45.091091+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -1660,7 +1660,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:11.764631+00:00",
+    "fetched_at": "2026-11-18T20:56:45.091215+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -1697,7 +1697,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:11.765704+00:00",
+    "fetched_at": "2026-11-18T20:56:45.092493+00:00",
     "quality_score": 94,
     "quality_label": "Improving"
   },
@@ -1734,7 +1734,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:11.764678+00:00",
+    "fetched_at": "2026-11-18T20:56:45.091273+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -1771,7 +1771,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:11.764723+00:00",
+    "fetched_at": "2026-11-18T20:56:45.091340+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -1808,7 +1808,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:11.764755+00:00",
+    "fetched_at": "2026-11-18T20:56:45.091378+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -1845,7 +1845,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:11.765893+00:00",
+    "fetched_at": "2026-11-18T20:56:45.092737+00:00",
     "quality_score": 68,
     "quality_label": "Mixed / stable"
   },
@@ -1882,7 +1882,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:11.765988+00:00",
+    "fetched_at": "2026-11-18T20:56:45.092861+00:00",
     "quality_score": 78,
     "quality_label": "Improving"
   },
@@ -1919,7 +1919,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:10.952109+00:00",
+    "fetched_at": "2026-11-18T20:56:43.850409+00:00",
     "quality_score": 98,
     "quality_label": "Improving"
   },
@@ -1956,7 +1956,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:10.952230+00:00",
+    "fetched_at": "2026-11-18T20:56:43.850551+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -1993,7 +1993,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:10.953460+00:00",
+    "fetched_at": "2026-11-18T20:56:43.851954+00:00",
     "quality_score": 93,
     "quality_label": "Improving"
   },
@@ -2030,7 +2030,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:10.952338+00:00",
+    "fetched_at": "2026-11-18T20:56:43.850658+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -2067,7 +2067,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:10.952387+00:00",
+    "fetched_at": "2026-11-18T20:56:43.850717+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -2104,7 +2104,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:10.952433+00:00",
+    "fetched_at": "2026-11-18T20:56:43.850774+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -2141,7 +2141,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:10.952466+00:00",
+    "fetched_at": "2026-11-18T20:56:43.850812+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -2178,7 +2178,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:10.953701+00:00",
+    "fetched_at": "2026-11-18T20:56:43.852338+00:00",
     "quality_score": 57,
     "quality_label": "Mixed / stable"
   },
@@ -2215,7 +2215,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:10.953937+00:00",
+    "fetched_at": "2026-11-18T20:56:43.852650+00:00",
     "quality_score": 70,
     "quality_label": "Improving"
   },
@@ -2252,7 +2252,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:10.954161+00:00",
+    "fetched_at": "2026-11-18T20:56:43.852939+00:00",
     "quality_score": 63,
     "quality_label": "Mixed / stable"
   },
@@ -2289,7 +2289,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:10.954292+00:00",
+    "fetched_at": "2026-11-18T20:56:43.853084+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -2326,7 +2326,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:10.157597+00:00",
+    "fetched_at": "2026-11-18T20:56:42.549675+00:00",
     "quality_score": 42,
     "quality_label": "Mixed / stable"
   },
@@ -2363,7 +2363,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:10.157713+00:00",
+    "fetched_at": "2026-11-18T20:56:42.549816+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -2400,7 +2400,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:10.158904+00:00",
+    "fetched_at": "2026-11-18T20:56:42.551252+00:00",
     "quality_score": 46,
     "quality_label": "Mixed / stable"
   },
@@ -2437,7 +2437,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:10.157798+00:00",
+    "fetched_at": "2026-11-18T20:56:42.549924+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -2474,7 +2474,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:10.157845+00:00",
+    "fetched_at": "2026-11-18T20:56:42.549983+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -2511,7 +2511,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:10.157890+00:00",
+    "fetched_at": "2026-11-18T20:56:42.550038+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -2548,7 +2548,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:10.157923+00:00",
+    "fetched_at": "2026-11-18T20:56:42.550076+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -2585,7 +2585,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:10.159136+00:00",
+    "fetched_at": "2026-11-18T20:56:42.551571+00:00",
     "quality_score": 54,
     "quality_label": "Mixed / stable"
   },
@@ -2622,7 +2622,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:10.159385+00:00",
+    "fetched_at": "2026-11-18T20:56:42.551868+00:00",
     "quality_score": 39,
     "quality_label": "Weakening"
   },
@@ -2659,7 +2659,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:10.159608+00:00",
+    "fetched_at": "2026-11-18T20:56:42.552158+00:00",
     "quality_score": 57,
     "quality_label": "Mixed / stable"
   },
@@ -2696,7 +2696,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:10.159719+00:00",
+    "fetched_at": "2026-11-18T20:56:42.552314+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -2733,7 +2733,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:09.263754+00:00",
+    "fetched_at": "2026-11-18T20:56:41.249067+00:00",
     "quality_score": 24,
     "quality_label": "Weakening"
   },
@@ -2770,7 +2770,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:09.263853+00:00",
+    "fetched_at": "2026-11-18T20:56:41.249189+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -2807,7 +2807,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:09.263901+00:00",
+    "fetched_at": "2026-11-18T20:56:41.249249+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -2844,7 +2844,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:09.264975+00:00",
+    "fetched_at": "2026-11-18T20:56:41.250519+00:00",
     "quality_score": 37,
     "quality_label": "Weakening"
   },
@@ -2881,7 +2881,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:09.263947+00:00",
+    "fetched_at": "2026-11-18T20:56:41.249322+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -2918,7 +2918,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:09.263979+00:00",
+    "fetched_at": "2026-11-18T20:56:41.249363+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -2955,7 +2955,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:09.265207+00:00",
+    "fetched_at": "2026-11-18T20:56:41.250817+00:00",
     "quality_score": 79,
     "quality_label": "Improving"
   },
@@ -2992,7 +2992,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:09.265463+00:00",
+    "fetched_at": "2026-11-18T20:56:41.251108+00:00",
     "quality_score": 76,
     "quality_label": "Improving"
   },
@@ -3029,7 +3029,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:09.265691+00:00",
+    "fetched_at": "2026-11-18T20:56:41.251412+00:00",
     "quality_score": 40,
     "quality_label": "Mixed / stable"
   },
@@ -3066,7 +3066,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:09.265807+00:00",
+    "fetched_at": "2026-11-18T20:56:41.251560+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -3103,7 +3103,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:08.275939+00:00",
+    "fetched_at": "2026-11-18T20:56:39.850158+00:00",
     "quality_score": 27,
     "quality_label": "Weakening"
   },
@@ -3140,7 +3140,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:08.276039+00:00",
+    "fetched_at": "2026-11-18T20:56:39.850280+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -3177,7 +3177,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:08.276106+00:00",
+    "fetched_at": "2026-11-18T20:56:39.850359+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -3214,7 +3214,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:08.277123+00:00",
+    "fetched_at": "2026-11-18T20:56:39.851583+00:00",
     "quality_score": 80,
     "quality_label": "Improving"
   },
@@ -3251,7 +3251,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:08.276155+00:00",
+    "fetched_at": "2026-11-18T20:56:39.850417+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -3288,7 +3288,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:08.276188+00:00",
+    "fetched_at": "2026-11-18T20:56:39.850456+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -3325,7 +3325,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:08.277379+00:00",
+    "fetched_at": "2026-11-18T20:56:39.851889+00:00",
     "quality_score": 100,
     "quality_label": "Improving"
   },
@@ -3362,7 +3362,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:08.277610+00:00",
+    "fetched_at": "2026-11-18T20:56:39.852186+00:00",
     "quality_score": 100,
     "quality_label": "Improving"
   },
@@ -3399,7 +3399,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:08.277835+00:00",
+    "fetched_at": "2026-11-18T20:56:39.852487+00:00",
     "quality_score": 57,
     "quality_label": "Mixed / stable"
   },
@@ -3436,7 +3436,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:08.277948+00:00",
+    "fetched_at": "2026-11-18T20:56:39.852633+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -3473,7 +3473,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:07.397719+00:00",
+    "fetched_at": "2026-11-18T20:56:38.413549+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -3510,7 +3510,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:07.397832+00:00",
+    "fetched_at": "2026-11-18T20:56:38.413691+00:00",
     "quality_score": 71,
     "quality_label": "Improving"
   },
@@ -3547,7 +3547,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:07.397929+00:00",
+    "fetched_at": "2026-11-18T20:56:38.413818+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -3584,7 +3584,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:07.399104+00:00",
+    "fetched_at": "2026-11-18T20:56:38.415327+00:00",
     "quality_score": 70,
     "quality_label": "Improving"
   },
@@ -3621,7 +3621,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:07.398012+00:00",
+    "fetched_at": "2026-11-18T20:56:38.413921+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -3658,7 +3658,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:07.398057+00:00",
+    "fetched_at": "2026-11-18T20:56:38.413977+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -3695,7 +3695,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:07.398103+00:00",
+    "fetched_at": "2026-11-18T20:56:38.414033+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -3732,7 +3732,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:07.398133+00:00",
+    "fetched_at": "2026-11-18T20:56:38.414071+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -3769,7 +3769,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:07.399360+00:00",
+    "fetched_at": "2026-11-18T20:56:38.415639+00:00",
     "quality_score": 100,
     "quality_label": "Improving"
   },
@@ -3806,7 +3806,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:07.399594+00:00",
+    "fetched_at": "2026-11-18T20:56:38.415934+00:00",
     "quality_score": 100,
     "quality_label": "Improving"
   },
@@ -3843,7 +3843,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:07.399822+00:00",
+    "fetched_at": "2026-11-18T20:56:38.416225+00:00",
     "quality_score": 78,
     "quality_label": "Improving"
   },
@@ -3880,7 +3880,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:07.399935+00:00",
+    "fetched_at": "2026-11-18T20:56:38.416381+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -3917,7 +3917,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:06.595432+00:00",
+    "fetched_at": "2026-11-18T20:56:37.148791+00:00",
     "quality_score": 74,
     "quality_label": "Improving"
   },
@@ -3954,7 +3954,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:06.595532+00:00",
+    "fetched_at": "2026-11-18T20:56:37.148911+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -3991,7 +3991,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:06.595580+00:00",
+    "fetched_at": "2026-11-18T20:56:37.148971+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -4028,7 +4028,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:06.596667+00:00",
+    "fetched_at": "2026-11-18T20:56:37.150247+00:00",
     "quality_score": 80,
     "quality_label": "Improving"
   },
@@ -4065,7 +4065,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:06.595626+00:00",
+    "fetched_at": "2026-11-18T20:56:37.149029+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -4102,7 +4102,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:06.595659+00:00",
+    "fetched_at": "2026-11-18T20:56:37.149069+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -4139,7 +4139,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:06.596886+00:00",
+    "fetched_at": "2026-11-18T20:56:37.150560+00:00",
     "quality_score": 90,
     "quality_label": "Improving"
   },
@@ -4176,7 +4176,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:06.597100+00:00",
+    "fetched_at": "2026-11-18T20:56:37.150848+00:00",
     "quality_score": 100,
     "quality_label": "Improving"
   },
@@ -4213,7 +4213,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:06.597207+00:00",
+    "fetched_at": "2026-11-18T20:56:37.150988+00:00",
     "quality_score": 63,
     "quality_label": "Mixed / stable"
   },
@@ -4250,7 +4250,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:05.754626+00:00",
+    "fetched_at": "2026-11-18T20:56:35.894111+00:00",
     "quality_score": 42,
     "quality_label": "Mixed / stable"
   },
@@ -4287,7 +4287,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:05.754739+00:00",
+    "fetched_at": "2026-11-18T20:56:35.894252+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -4324,7 +4324,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:05.754838+00:00",
+    "fetched_at": "2026-11-18T20:56:35.894393+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -4361,7 +4361,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:05.756001+00:00",
+    "fetched_at": "2026-11-18T20:56:35.895830+00:00",
     "quality_score": 98,
     "quality_label": "Improving"
   },
@@ -4398,7 +4398,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:05.754920+00:00",
+    "fetched_at": "2026-11-18T20:56:35.894496+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -4435,7 +4435,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:05.754964+00:00",
+    "fetched_at": "2026-11-18T20:56:35.894552+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -4472,7 +4472,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:05.755008+00:00",
+    "fetched_at": "2026-11-18T20:56:35.894605+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -4509,7 +4509,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:05.755040+00:00",
+    "fetched_at": "2026-11-18T20:56:35.894643+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -4546,7 +4546,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:05.756275+00:00",
+    "fetched_at": "2026-11-18T20:56:35.896129+00:00",
     "quality_score": 89,
     "quality_label": "Improving"
   },
@@ -4583,7 +4583,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:05.756515+00:00",
+    "fetched_at": "2026-11-18T20:56:35.896448+00:00",
     "quality_score": 70,
     "quality_label": "Improving"
   },
@@ -4620,7 +4620,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:05.756632+00:00",
+    "fetched_at": "2026-11-18T20:56:35.896599+00:00",
     "quality_score": 63,
     "quality_label": "Mixed / stable"
   },
@@ -4657,7 +4657,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:04.863829+00:00",
+    "fetched_at": "2026-11-18T20:56:34.454864+00:00",
     "quality_score": 92,
     "quality_label": "Improving"
   },
@@ -4694,7 +4694,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:04.863944+00:00",
+    "fetched_at": "2026-11-18T20:56:34.455007+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -4731,7 +4731,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:04.864031+00:00",
+    "fetched_at": "2026-11-18T20:56:34.455115+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -4768,7 +4768,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:04.865164+00:00",
+    "fetched_at": "2026-11-18T20:56:34.456482+00:00",
     "quality_score": 93,
     "quality_label": "Improving"
   },
@@ -4805,7 +4805,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:04.864095+00:00",
+    "fetched_at": "2026-11-18T20:56:34.455173+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -4842,7 +4842,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:04.864144+00:00",
+    "fetched_at": "2026-11-18T20:56:34.455228+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -4879,7 +4879,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:04.864178+00:00",
+    "fetched_at": "2026-11-18T20:56:34.455268+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -4916,7 +4916,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:04.865421+00:00",
+    "fetched_at": "2026-11-18T20:56:34.456792+00:00",
     "quality_score": 93,
     "quality_label": "Improving"
   },
@@ -4953,7 +4953,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:04.865651+00:00",
+    "fetched_at": "2026-11-18T20:56:34.457089+00:00",
     "quality_score": 100,
     "quality_label": "Improving"
   },
@@ -4990,7 +4990,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:04.865875+00:00",
+    "fetched_at": "2026-11-18T20:56:34.457394+00:00",
     "quality_score": 78,
     "quality_label": "Improving"
   },
@@ -5027,7 +5027,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:04.865988+00:00",
+    "fetched_at": "2026-11-18T20:56:34.457541+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -5064,7 +5064,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:03.467128+00:00",
+    "fetched_at": "2026-11-18T20:56:32.567637+00:00",
     "quality_score": 92,
     "quality_label": "Improving"
   },
@@ -5101,7 +5101,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:03.467262+00:00",
+    "fetched_at": "2026-11-18T20:56:32.567781+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -5138,7 +5138,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:03.467351+00:00",
+    "fetched_at": "2026-11-18T20:56:32.567888+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -5175,7 +5175,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:03.468497+00:00",
+    "fetched_at": "2026-11-18T20:56:32.569230+00:00",
     "quality_score": 98,
     "quality_label": "Improving"
   },
@@ -5212,7 +5212,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:03.467398+00:00",
+    "fetched_at": "2026-11-18T20:56:32.567945+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -5249,7 +5249,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:03.467442+00:00",
+    "fetched_at": "2026-11-18T20:56:32.568000+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -5286,7 +5286,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:03.467475+00:00",
+    "fetched_at": "2026-11-18T20:56:32.568039+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -5323,7 +5323,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:03.468737+00:00",
+    "fetched_at": "2026-11-18T20:56:32.569553+00:00",
     "quality_score": 54,
     "quality_label": "Mixed / stable"
   },
@@ -5360,7 +5360,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:03.468973+00:00",
+    "fetched_at": "2026-11-18T20:56:32.569848+00:00",
     "quality_score": 95,
     "quality_label": "Improving"
   },
@@ -5397,7 +5397,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:03.469201+00:00",
+    "fetched_at": "2026-11-18T20:56:32.570136+00:00",
     "quality_score": 78,
     "quality_label": "Improving"
   },
@@ -5434,7 +5434,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:03.469338+00:00",
+    "fetched_at": "2026-11-18T20:56:32.570277+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -5471,7 +5471,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:01.985642+00:00",
+    "fetched_at": "2026-11-18T20:56:31.244237+00:00",
     "quality_score": 98,
     "quality_label": "Improving"
   },
@@ -5508,7 +5508,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:01.985754+00:00",
+    "fetched_at": "2026-11-18T20:56:31.244390+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -5545,7 +5545,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:01.985834+00:00",
+    "fetched_at": "2026-11-18T20:56:31.244494+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -5582,7 +5582,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:01.986725+00:00",
+    "fetched_at": "2026-11-18T20:56:31.245568+00:00",
     "quality_score": 98,
     "quality_label": "Improving"
   },
@@ -5619,7 +5619,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:01.985880+00:00",
+    "fetched_at": "2026-11-18T20:56:31.244552+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -5656,7 +5656,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:01.985923+00:00",
+    "fetched_at": "2026-11-18T20:56:31.244608+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -5693,7 +5693,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:01.985956+00:00",
+    "fetched_at": "2026-11-18T20:56:31.244646+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -5730,7 +5730,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:01.986790+00:00",
+    "fetched_at": "2026-11-18T20:56:31.245651+00:00",
     "quality_score": 32,
     "quality_label": "Weakening"
   },
@@ -5767,7 +5767,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:01.986851+00:00",
+    "fetched_at": "2026-11-18T20:56:31.245730+00:00",
     "quality_score": 92,
     "quality_label": "Improving"
   },
@@ -5804,7 +5804,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:01.986909+00:00",
+    "fetched_at": "2026-11-18T20:56:31.245804+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -5841,7 +5841,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:01.986938+00:00",
+    "fetched_at": "2026-11-18T20:56:31.245839+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -5878,7 +5878,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:01.161207+00:00",
+    "fetched_at": "2026-11-18T20:56:29.973148+00:00",
     "quality_score": 36,
     "quality_label": "Weakening"
   },
@@ -5915,7 +5915,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:01.161330+00:00",
+    "fetched_at": "2026-11-18T20:56:29.973270+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -5952,7 +5952,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:01.162377+00:00",
+    "fetched_at": "2026-11-18T20:56:29.974529+00:00",
     "quality_score": 46,
     "quality_label": "Mixed / stable"
   },
@@ -5989,7 +5989,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:01.161380+00:00",
+    "fetched_at": "2026-11-18T20:56:29.973345+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -6026,7 +6026,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:01.161426+00:00",
+    "fetched_at": "2026-11-18T20:56:29.973404+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -6063,7 +6063,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:01.161459+00:00",
+    "fetched_at": "2026-11-18T20:56:29.973444+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -6100,7 +6100,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:01.162610+00:00",
+    "fetched_at": "2026-11-18T20:56:29.974827+00:00",
     "quality_score": 70,
     "quality_label": "Improving"
   },
@@ -6137,7 +6137,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:01.162835+00:00",
+    "fetched_at": "2026-11-18T20:56:29.975117+00:00",
     "quality_score": 6,
     "quality_label": "Weakening"
   },
@@ -6174,7 +6174,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:01.163057+00:00",
+    "fetched_at": "2026-11-18T20:56:29.975410+00:00",
     "quality_score": 30,
     "quality_label": "Weakening"
   },
@@ -6211,7 +6211,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:01.163172+00:00",
+    "fetched_at": "2026-11-18T20:56:29.975576+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -6248,7 +6248,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:00.322306+00:00",
+    "fetched_at": "2026-11-18T20:56:28.650715+00:00",
     "quality_score": 42,
     "quality_label": "Mixed / stable"
   },
@@ -6285,7 +6285,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:00.322422+00:00",
+    "fetched_at": "2026-11-18T20:56:28.650857+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -6322,7 +6322,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:00.322524+00:00",
+    "fetched_at": "2026-11-18T20:56:28.650983+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -6359,7 +6359,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:00.323687+00:00",
+    "fetched_at": "2026-11-18T20:56:28.652442+00:00",
     "quality_score": 26,
     "quality_label": "Weakening"
   },
@@ -6396,7 +6396,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:00.322607+00:00",
+    "fetched_at": "2026-11-18T20:56:28.651087+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -6433,7 +6433,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:00.322652+00:00",
+    "fetched_at": "2026-11-18T20:56:28.651143+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -6470,7 +6470,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:00.322696+00:00",
+    "fetched_at": "2026-11-18T20:56:28.651196+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -6507,7 +6507,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:00.322728+00:00",
+    "fetched_at": "2026-11-18T20:56:28.651235+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -6544,7 +6544,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:00.323919+00:00",
+    "fetched_at": "2026-11-18T20:56:28.652783+00:00",
     "quality_score": 100,
     "quality_label": "Improving"
   },
@@ -6581,7 +6581,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:00.324172+00:00",
+    "fetched_at": "2026-11-18T20:56:28.653085+00:00",
     "quality_score": 74,
     "quality_label": "Improving"
   },
@@ -6618,7 +6618,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:00.324426+00:00",
+    "fetched_at": "2026-11-18T20:56:28.653405+00:00",
     "quality_score": 78,
     "quality_label": "Improving"
   },
@@ -6655,7 +6655,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:23:00.324540+00:00",
+    "fetched_at": "2026-11-18T20:56:28.653549+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -6692,7 +6692,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:59.069718+00:00",
+    "fetched_at": "2026-11-18T20:56:27.409780+00:00",
     "quality_score": 60,
     "quality_label": "Mixed / stable"
   },
@@ -6729,7 +6729,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:59.069819+00:00",
+    "fetched_at": "2026-11-18T20:56:27.409912+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -6766,7 +6766,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:59.069873+00:00",
+    "fetched_at": "2026-11-18T20:56:27.409974+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -6803,7 +6803,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:59.070910+00:00",
+    "fetched_at": "2026-11-18T20:56:27.411239+00:00",
     "quality_score": 93,
     "quality_label": "Improving"
   },
@@ -6840,7 +6840,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:59.069919+00:00",
+    "fetched_at": "2026-11-18T20:56:27.410034+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -6877,7 +6877,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:59.069952+00:00",
+    "fetched_at": "2026-11-18T20:56:27.410074+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -6914,7 +6914,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:59.071142+00:00",
+    "fetched_at": "2026-11-18T20:56:27.411561+00:00",
     "quality_score": 86,
     "quality_label": "Improving"
   },
@@ -6951,7 +6951,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:59.071396+00:00",
+    "fetched_at": "2026-11-18T20:56:27.411855+00:00",
     "quality_score": 89,
     "quality_label": "Improving"
   },
@@ -6988,7 +6988,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:59.071622+00:00",
+    "fetched_at": "2026-11-18T20:56:27.412143+00:00",
     "quality_score": 62,
     "quality_label": "Mixed / stable"
   },
@@ -7025,7 +7025,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:59.071738+00:00",
+    "fetched_at": "2026-11-18T20:56:27.412298+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -7062,7 +7062,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:57.976594+00:00",
+    "fetched_at": "2026-11-18T20:56:26.079924+00:00",
     "quality_score": 58,
     "quality_label": "Mixed / stable"
   },
@@ -7099,7 +7099,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:57.976695+00:00",
+    "fetched_at": "2026-11-18T20:56:26.080045+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -7136,7 +7136,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:57.976742+00:00",
+    "fetched_at": "2026-11-18T20:56:26.080106+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -7173,7 +7173,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:57.977798+00:00",
+    "fetched_at": "2026-11-18T20:56:26.081386+00:00",
     "quality_score": 85,
     "quality_label": "Improving"
   },
@@ -7210,7 +7210,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:57.976788+00:00",
+    "fetched_at": "2026-11-18T20:56:26.080165+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -7247,7 +7247,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:57.976820+00:00",
+    "fetched_at": "2026-11-18T20:56:26.080207+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -7284,7 +7284,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:57.978032+00:00",
+    "fetched_at": "2026-11-18T20:56:26.081694+00:00",
     "quality_score": 52,
     "quality_label": "Mixed / stable"
   },
@@ -7321,7 +7321,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:57.978274+00:00",
+    "fetched_at": "2026-11-18T20:56:26.081991+00:00",
     "quality_score": 84,
     "quality_label": "Improving"
   },
@@ -7358,7 +7358,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:57.978512+00:00",
+    "fetched_at": "2026-11-18T20:56:26.082294+00:00",
     "quality_score": 78,
     "quality_label": "Improving"
   },
@@ -7395,7 +7395,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:57.978629+00:00",
+    "fetched_at": "2026-11-18T20:56:26.082443+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -7432,7 +7432,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:57.242646+00:00",
+    "fetched_at": "2026-11-18T20:56:24.778965+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -7469,7 +7469,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:57.242763+00:00",
+    "fetched_at": "2026-11-18T20:56:24.779107+00:00",
     "quality_score": 65,
     "quality_label": "Mixed / stable"
   },
@@ -7506,7 +7506,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:57.242866+00:00",
+    "fetched_at": "2026-11-18T20:56:24.779237+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -7543,7 +7543,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:57.244040+00:00",
+    "fetched_at": "2026-11-18T20:56:24.780700+00:00",
     "quality_score": 100,
     "quality_label": "Improving"
   },
@@ -7580,7 +7580,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:57.242948+00:00",
+    "fetched_at": "2026-11-18T20:56:24.779354+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -7617,7 +7617,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:57.242994+00:00",
+    "fetched_at": "2026-11-18T20:56:24.779411+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -7654,7 +7654,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:57.243040+00:00",
+    "fetched_at": "2026-11-18T20:56:24.779467+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -7691,7 +7691,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:57.243071+00:00",
+    "fetched_at": "2026-11-18T20:56:24.779505+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -7728,7 +7728,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:57.244318+00:00",
+    "fetched_at": "2026-11-18T20:56:24.781000+00:00",
     "quality_score": 39,
     "quality_label": "Weakening"
   },
@@ -7765,7 +7765,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:57.244556+00:00",
+    "fetched_at": "2026-11-18T20:56:24.781306+00:00",
     "quality_score": 63,
     "quality_label": "Mixed / stable"
   },
@@ -7802,7 +7802,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:57.244783+00:00",
+    "fetched_at": "2026-11-18T20:56:24.781596+00:00",
     "quality_score": 55,
     "quality_label": "Mixed / stable"
   },
@@ -7839,7 +7839,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:57.244896+00:00",
+    "fetched_at": "2026-11-18T20:56:24.781739+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -7876,7 +7876,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:56.421431+00:00",
+    "fetched_at": "2026-11-18T20:56:23.552569+00:00",
     "quality_score": 92,
     "quality_label": "Improving"
   },
@@ -7913,7 +7913,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:56.421544+00:00",
+    "fetched_at": "2026-11-18T20:56:23.552710+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -7950,7 +7950,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:56.421628+00:00",
+    "fetched_at": "2026-11-18T20:56:23.552820+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -7987,7 +7987,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:56.421676+00:00",
+    "fetched_at": "2026-11-18T20:56:23.552881+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -8024,7 +8024,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:56.422719+00:00",
+    "fetched_at": "2026-11-18T20:56:23.554203+00:00",
     "quality_score": 81,
     "quality_label": "Improving"
   },
@@ -8061,7 +8061,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:56.421720+00:00",
+    "fetched_at": "2026-11-18T20:56:23.552939+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -8098,7 +8098,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:56.421751+00:00",
+    "fetched_at": "2026-11-18T20:56:23.552978+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -8135,7 +8135,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:56.422953+00:00",
+    "fetched_at": "2026-11-18T20:56:23.554529+00:00",
     "quality_score": 26,
     "quality_label": "Weakening"
   },
@@ -8172,7 +8172,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:56.423177+00:00",
+    "fetched_at": "2026-11-18T20:56:23.554824+00:00",
     "quality_score": 26,
     "quality_label": "Weakening"
   },
@@ -8209,7 +8209,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:56.423318+00:00",
+    "fetched_at": "2026-11-18T20:56:23.554973+00:00",
     "quality_score": 68,
     "quality_label": "Mixed / stable"
   },
@@ -8246,7 +8246,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:55.477291+00:00",
+    "fetched_at": "2026-11-18T20:56:22.270098+00:00",
     "quality_score": 28,
     "quality_label": "Weakening"
   },
@@ -8283,7 +8283,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:55.477394+00:00",
+    "fetched_at": "2026-11-18T20:56:22.270221+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -8320,7 +8320,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:55.478486+00:00",
+    "fetched_at": "2026-11-18T20:56:22.271572+00:00",
     "quality_score": 100,
     "quality_label": "Improving"
   },
@@ -8357,7 +8357,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:55.477444+00:00",
+    "fetched_at": "2026-11-18T20:56:22.270297+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -8394,7 +8394,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:55.477490+00:00",
+    "fetched_at": "2026-11-18T20:56:22.270358+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -8431,7 +8431,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:55.477524+00:00",
+    "fetched_at": "2026-11-18T20:56:22.270399+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -8468,7 +8468,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:55.478722+00:00",
+    "fetched_at": "2026-11-18T20:56:22.271875+00:00",
     "quality_score": 30,
     "quality_label": "Weakening"
   },
@@ -8505,7 +8505,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:55.478954+00:00",
+    "fetched_at": "2026-11-18T20:56:22.272170+00:00",
     "quality_score": 6,
     "quality_label": "Weakening"
   },
@@ -8542,7 +8542,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:55.479178+00:00",
+    "fetched_at": "2026-11-18T20:56:22.272473+00:00",
     "quality_score": 22,
     "quality_label": "Weakening"
   },
@@ -8579,7 +8579,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:55.479310+00:00",
+    "fetched_at": "2026-11-18T20:56:22.272617+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -8616,7 +8616,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:53.128268+00:00",
+    "fetched_at": "2026-11-18T20:56:19.049219+00:00",
     "quality_score": 72,
     "quality_label": "Improving"
   },
@@ -8653,7 +8653,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:53.128390+00:00",
+    "fetched_at": "2026-11-18T20:56:19.049379+00:00",
     "quality_score": 36,
     "quality_label": "Weakening"
   },
@@ -8690,7 +8690,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:53.128495+00:00",
+    "fetched_at": "2026-11-18T20:56:19.049507+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -8727,7 +8727,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:53.129646+00:00",
+    "fetched_at": "2026-11-18T20:56:19.051017+00:00",
     "quality_score": 86,
     "quality_label": "Improving"
   },
@@ -8764,7 +8764,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:53.128577+00:00",
+    "fetched_at": "2026-11-18T20:56:19.049611+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -8801,7 +8801,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:53.128622+00:00",
+    "fetched_at": "2026-11-18T20:56:19.049668+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -8838,7 +8838,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:53.128666+00:00",
+    "fetched_at": "2026-11-18T20:56:19.049723+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -8875,7 +8875,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:53.128697+00:00",
+    "fetched_at": "2026-11-18T20:56:19.049762+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -8912,7 +8912,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:53.129889+00:00",
+    "fetched_at": "2026-11-18T20:56:19.051336+00:00",
     "quality_score": 58,
     "quality_label": "Mixed / stable"
   },
@@ -8949,7 +8949,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:53.130120+00:00",
+    "fetched_at": "2026-11-18T20:56:19.051638+00:00",
     "quality_score": 76,
     "quality_label": "Improving"
   },
@@ -8986,9 +8986,46 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:53.130252+00:00",
+    "fetched_at": "2026-11-18T20:56:19.051874+00:00",
     "quality_score": 60,
     "quality_label": "Mixed / stable"
+  },
+  {
+    "symbol": "PRITIKAUTO",
+    "period_end": "2026-09-30",
+    "period_type": "quarterly",
+    "revenue": 1531892000.0,
+    "operating_income": 154513000.0,
+    "net_income": 65579000.0,
+    "eps": 0.39,
+    "operating_cash_flow": null,
+    "capital_expenditure": null,
+    "free_cash_flow": null,
+    "revenue_yoy": 31.554644,
+    "revenue_qoq": 5.670753,
+    "operating_income_yoy": 14.516846,
+    "operating_income_qoq": 14.771183,
+    "net_income_yoy": 10.214954,
+    "net_income_qoq": 5.074345,
+    "eps_yoy": 8.333333,
+    "ocf_yoy": null,
+    "capex_yoy": null,
+    "fcf_yoy": null,
+    "operating_margin_pct": 10.086416,
+    "operating_margin_change_yoy_pp": -1.500655,
+    "net_margin_pct": 4.280915,
+    "ocf_margin_pct": null,
+    "fcf_margin_pct": null,
+    "cash_conversion_pct": null,
+    "capex_intensity_pct": null,
+    "cash_flow_basis": "TTM",
+    "cash_flow_note": "TTM cash-flow metrics matched to the nearest reported cash-flow dates.",
+    "cash_metrics_applicable": true,
+    "currency": "INR",
+    "source": "Yahoo Finance via yfinance",
+    "fetched_at": "2026-11-18T20:56:17.769726+00:00",
+    "quality_score": 73,
+    "quality_label": "Improving"
   },
   {
     "symbol": "PRITIKAUTO",
@@ -9001,18 +9038,18 @@
     "operating_cash_flow": null,
     "capital_expenditure": null,
     "free_cash_flow": null,
-    "revenue_yoy": 26.487998,
+    "revenue_yoy": null,
     "revenue_qoq": 4.699505,
-    "operating_income_yoy": 6.465746,
+    "operating_income_yoy": null,
     "operating_income_qoq": 16.807948,
-    "net_income_yoy": 13.414501,
+    "net_income_yoy": null,
     "net_income_qoq": 42.802883,
-    "eps_yoy": 12.121212,
+    "eps_yoy": null,
     "ocf_yoy": null,
     "capex_yoy": null,
     "fcf_yoy": null,
     "operating_margin_pct": 9.286645,
-    "operating_margin_change_yoy_pp": -1.746473,
+    "operating_margin_change_yoy_pp": null,
     "net_margin_pct": 4.305214,
     "ocf_margin_pct": null,
     "fcf_margin_pct": null,
@@ -9023,9 +9060,9 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:52.252676+00:00",
-    "quality_score": 73,
-    "quality_label": "Improving"
+    "fetched_at": "2026-11-18T20:56:17.769848+00:00",
+    "quality_score": 50,
+    "quality_label": "Mixed / stable"
   },
   {
     "symbol": "PRITIKAUTO",
@@ -9060,7 +9097,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:52.252775+00:00",
+    "fetched_at": "2026-11-18T20:56:17.769908+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -9097,7 +9134,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:52.253855+00:00",
+    "fetched_at": "2026-11-18T20:56:17.771182+00:00",
     "quality_score": 100,
     "quality_label": "Improving"
   },
@@ -9134,7 +9171,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:52.252823+00:00",
+    "fetched_at": "2026-11-18T20:56:17.769966+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -9150,11 +9187,11 @@
     "capital_expenditure": null,
     "free_cash_flow": null,
     "revenue_yoy": null,
-    "revenue_qoq": 1.600989,
+    "revenue_qoq": null,
     "operating_income_yoy": null,
-    "operating_income_qoq": 6.702201,
+    "operating_income_qoq": null,
     "net_income_yoy": null,
-    "net_income_qoq": 8.124659,
+    "net_income_qoq": null,
     "eps_yoy": null,
     "ocf_yoy": null,
     "capex_yoy": null,
@@ -9171,44 +9208,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:52.252870+00:00",
-    "quality_score": 50,
-    "quality_label": "Mixed / stable"
-  },
-  {
-    "symbol": "PRITIKAUTO",
-    "period_end": "2025-06-30",
-    "period_type": "quarterly",
-    "revenue": 1146104000.0,
-    "operating_income": 126451000.0,
-    "net_income": 55030000.0,
-    "eps": 0.33,
-    "operating_cash_flow": null,
-    "capital_expenditure": null,
-    "free_cash_flow": null,
-    "revenue_yoy": null,
-    "revenue_qoq": null,
-    "operating_income_yoy": null,
-    "operating_income_qoq": null,
-    "net_income_yoy": null,
-    "net_income_qoq": null,
-    "eps_yoy": null,
-    "ocf_yoy": null,
-    "capex_yoy": null,
-    "fcf_yoy": null,
-    "operating_margin_pct": 11.033117,
-    "operating_margin_change_yoy_pp": null,
-    "net_margin_pct": 4.801484,
-    "ocf_margin_pct": null,
-    "fcf_margin_pct": null,
-    "cash_conversion_pct": null,
-    "capex_intensity_pct": null,
-    "cash_flow_basis": "TTM",
-    "cash_flow_note": "TTM cash-flow metrics matched to the nearest reported cash-flow dates.",
-    "cash_metrics_applicable": true,
-    "currency": "INR",
-    "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:52.252903+00:00",
+    "fetched_at": "2026-11-18T20:56:17.770005+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -9245,7 +9245,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:52.254084+00:00",
+    "fetched_at": "2026-11-18T20:56:17.771502+00:00",
     "quality_score": 74,
     "quality_label": "Improving"
   },
@@ -9282,7 +9282,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:52.254330+00:00",
+    "fetched_at": "2026-11-18T20:56:17.771796+00:00",
     "quality_score": 47,
     "quality_label": "Mixed / stable"
   },
@@ -9319,7 +9319,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:52.254557+00:00",
+    "fetched_at": "2026-11-18T20:56:17.772087+00:00",
     "quality_score": 39,
     "quality_label": "Weakening"
   },
@@ -9356,7 +9356,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:52.254670+00:00",
+    "fetched_at": "2026-11-18T20:56:17.772233+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -9393,7 +9393,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:51.393951+00:00",
+    "fetched_at": "2026-11-18T20:56:16.520451+00:00",
     "quality_score": 36,
     "quality_label": "Weakening"
   },
@@ -9430,7 +9430,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:51.394051+00:00",
+    "fetched_at": "2026-11-18T20:56:16.520574+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -9467,7 +9467,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:51.395129+00:00",
+    "fetched_at": "2026-11-18T20:56:16.521933+00:00",
     "quality_score": 20,
     "quality_label": "Weakening"
   },
@@ -9504,7 +9504,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:51.394099+00:00",
+    "fetched_at": "2026-11-18T20:56:16.520636+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -9541,7 +9541,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:51.394146+00:00",
+    "fetched_at": "2026-11-18T20:56:16.520696+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -9578,7 +9578,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:51.394180+00:00",
+    "fetched_at": "2026-11-18T20:56:16.520737+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -9615,7 +9615,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:51.395384+00:00",
+    "fetched_at": "2026-11-18T20:56:16.522239+00:00",
     "quality_score": 44,
     "quality_label": "Mixed / stable"
   },
@@ -9652,7 +9652,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:51.395610+00:00",
+    "fetched_at": "2026-11-18T20:56:16.522555+00:00",
     "quality_score": 70,
     "quality_label": "Improving"
   },
@@ -9689,7 +9689,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:51.395831+00:00",
+    "fetched_at": "2026-11-18T20:56:16.522848+00:00",
     "quality_score": 22,
     "quality_label": "Weakening"
   },
@@ -9726,7 +9726,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:51.395942+00:00",
+    "fetched_at": "2026-11-18T20:56:16.522992+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -9763,7 +9763,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:48.812671+00:00",
+    "fetched_at": "2026-11-18T20:56:13.067117+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -9800,7 +9800,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:48.812791+00:00",
+    "fetched_at": "2026-11-18T20:56:13.067257+00:00",
     "quality_score": 65,
     "quality_label": "Mixed / stable"
   },
@@ -9837,7 +9837,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:48.812879+00:00",
+    "fetched_at": "2026-11-18T20:56:13.067381+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -9874,7 +9874,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:48.813984+00:00",
+    "fetched_at": "2026-11-18T20:56:13.068714+00:00",
     "quality_score": 100,
     "quality_label": "Improving"
   },
@@ -9911,7 +9911,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:48.812927+00:00",
+    "fetched_at": "2026-11-18T20:56:13.067439+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -9948,7 +9948,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:48.812974+00:00",
+    "fetched_at": "2026-11-18T20:56:13.067494+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -9985,7 +9985,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:48.813009+00:00",
+    "fetched_at": "2026-11-18T20:56:13.067535+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -10022,7 +10022,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:48.814224+00:00",
+    "fetched_at": "2026-11-18T20:56:13.069018+00:00",
     "quality_score": 100,
     "quality_label": "Improving"
   },
@@ -10059,7 +10059,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:48.814476+00:00",
+    "fetched_at": "2026-11-18T20:56:13.069325+00:00",
     "quality_score": 93,
     "quality_label": "Improving"
   },
@@ -10096,7 +10096,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:48.814595+00:00",
+    "fetched_at": "2026-11-18T20:56:13.069480+00:00",
     "quality_score": 73,
     "quality_label": "Improving"
   },
@@ -10133,7 +10133,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:47.965911+00:00",
+    "fetched_at": "2026-11-18T20:56:11.730374+00:00",
     "quality_score": 98,
     "quality_label": "Improving"
   },
@@ -10170,7 +10170,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:47.966009+00:00",
+    "fetched_at": "2026-11-18T20:56:11.730496+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -10207,7 +10207,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:47.966057+00:00",
+    "fetched_at": "2026-11-18T20:56:11.730558+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -10244,7 +10244,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:47.967037+00:00",
+    "fetched_at": "2026-11-18T20:56:11.731796+00:00",
     "quality_score": 39,
     "quality_label": "Weakening"
   },
@@ -10281,7 +10281,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:47.966103+00:00",
+    "fetched_at": "2026-11-18T20:56:11.730616+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -10318,7 +10318,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:47.966137+00:00",
+    "fetched_at": "2026-11-18T20:56:11.730656+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -10355,7 +10355,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:47.967287+00:00",
+    "fetched_at": "2026-11-18T20:56:11.732101+00:00",
     "quality_score": 34,
     "quality_label": "Weakening"
   },
@@ -10392,7 +10392,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:47.967523+00:00",
+    "fetched_at": "2026-11-18T20:56:11.732413+00:00",
     "quality_score": 60,
     "quality_label": "Mixed / stable"
   },
@@ -10429,7 +10429,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:47.967641+00:00",
+    "fetched_at": "2026-11-18T20:56:11.732566+00:00",
     "quality_score": 73,
     "quality_label": "Improving"
   },
@@ -10466,7 +10466,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:47.155905+00:00",
+    "fetched_at": "2026-11-18T20:56:10.302170+00:00",
     "quality_score": 16,
     "quality_label": "Weakening"
   },
@@ -10503,7 +10503,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:47.156178+00:00",
+    "fetched_at": "2026-11-18T20:56:10.302517+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -10540,7 +10540,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:47.157486+00:00",
+    "fetched_at": "2026-11-18T20:56:10.304128+00:00",
     "quality_score": 46,
     "quality_label": "Mixed / stable"
   },
@@ -10577,7 +10577,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:47.156444+00:00",
+    "fetched_at": "2026-11-18T20:56:10.302811+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -10614,7 +10614,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:47.156495+00:00",
+    "fetched_at": "2026-11-18T20:56:10.302872+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -10651,7 +10651,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:47.156541+00:00",
+    "fetched_at": "2026-11-18T20:56:10.302928+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -10688,7 +10688,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:47.156573+00:00",
+    "fetched_at": "2026-11-18T20:56:10.302967+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -10725,7 +10725,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:47.157720+00:00",
+    "fetched_at": "2026-11-18T20:56:10.304445+00:00",
     "quality_score": 70,
     "quality_label": "Improving"
   },
@@ -10762,7 +10762,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:47.157947+00:00",
+    "fetched_at": "2026-11-18T20:56:10.304739+00:00",
     "quality_score": 87,
     "quality_label": "Improving"
   },
@@ -10799,7 +10799,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:47.158167+00:00",
+    "fetched_at": "2026-11-18T20:56:10.305027+00:00",
     "quality_score": 78,
     "quality_label": "Improving"
   },
@@ -10836,7 +10836,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:47.158299+00:00",
+    "fetched_at": "2026-11-18T20:56:10.305170+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -10873,7 +10873,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:46.216272+00:00",
+    "fetched_at": "2026-11-18T20:56:08.954990+00:00",
     "quality_score": 98,
     "quality_label": "Improving"
   },
@@ -10910,7 +10910,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:46.216392+00:00",
+    "fetched_at": "2026-11-18T20:56:08.955134+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -10947,7 +10947,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:46.216480+00:00",
+    "fetched_at": "2026-11-18T20:56:08.955243+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -10984,7 +10984,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:46.217529+00:00",
+    "fetched_at": "2026-11-18T20:56:08.956571+00:00",
     "quality_score": 75,
     "quality_label": "Improving"
   },
@@ -11021,7 +11021,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:46.216526+00:00",
+    "fetched_at": "2026-11-18T20:56:08.955317+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -11058,7 +11058,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:46.216571+00:00",
+    "fetched_at": "2026-11-18T20:56:08.955374+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -11095,7 +11095,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:46.216604+00:00",
+    "fetched_at": "2026-11-18T20:56:08.955412+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -11132,7 +11132,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:46.217763+00:00",
+    "fetched_at": "2026-11-18T20:56:08.956871+00:00",
     "quality_score": 100,
     "quality_label": "Improving"
   },
@@ -11169,7 +11169,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:46.217990+00:00",
+    "fetched_at": "2026-11-18T20:56:08.957165+00:00",
     "quality_score": 100,
     "quality_label": "Improving"
   },
@@ -11206,7 +11206,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:46.218213+00:00",
+    "fetched_at": "2026-11-18T20:56:08.957473+00:00",
     "quality_score": 73,
     "quality_label": "Improving"
   },
@@ -11243,7 +11243,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:46.218345+00:00",
+    "fetched_at": "2026-11-18T20:56:08.957619+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -11280,7 +11280,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:45.315202+00:00",
+    "fetched_at": "2026-11-18T20:56:07.659651+00:00",
     "quality_score": 84,
     "quality_label": "Improving"
   },
@@ -11317,7 +11317,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:45.315324+00:00",
+    "fetched_at": "2026-11-18T20:56:07.659773+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -11354,7 +11354,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:45.316415+00:00",
+    "fetched_at": "2026-11-18T20:56:07.661088+00:00",
     "quality_score": 57,
     "quality_label": "Mixed / stable"
   },
@@ -11391,7 +11391,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:45.315374+00:00",
+    "fetched_at": "2026-11-18T20:56:07.659835+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -11428,7 +11428,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:45.315421+00:00",
+    "fetched_at": "2026-11-18T20:56:07.659894+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -11465,7 +11465,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:45.315454+00:00",
+    "fetched_at": "2026-11-18T20:56:07.659934+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -11502,7 +11502,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:45.316652+00:00",
+    "fetched_at": "2026-11-18T20:56:07.661410+00:00",
     "quality_score": 40,
     "quality_label": "Mixed / stable"
   },
@@ -11539,7 +11539,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:45.316881+00:00",
+    "fetched_at": "2026-11-18T20:56:07.661706+00:00",
     "quality_score": 81,
     "quality_label": "Improving"
   },
@@ -11576,7 +11576,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:45.317107+00:00",
+    "fetched_at": "2026-11-18T20:56:07.661996+00:00",
     "quality_score": 55,
     "quality_label": "Mixed / stable"
   },
@@ -11613,7 +11613,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:45.317219+00:00",
+    "fetched_at": "2026-11-18T20:56:07.662140+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -11650,7 +11650,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:44.424486+00:00",
+    "fetched_at": "2026-11-18T20:56:06.448192+00:00",
     "quality_score": 98,
     "quality_label": "Improving"
   },
@@ -11687,7 +11687,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:44.424583+00:00",
+    "fetched_at": "2026-11-18T20:56:06.448331+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -11724,7 +11724,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:44.425684+00:00",
+    "fetched_at": "2026-11-18T20:56:06.449662+00:00",
     "quality_score": 100,
     "quality_label": "Improving"
   },
@@ -11761,7 +11761,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:44.424632+00:00",
+    "fetched_at": "2026-11-18T20:56:06.448393+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -11798,7 +11798,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:44.424678+00:00",
+    "fetched_at": "2026-11-18T20:56:06.448450+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -11835,7 +11835,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:44.424712+00:00",
+    "fetched_at": "2026-11-18T20:56:06.448490+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -11872,7 +11872,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:44.425919+00:00",
+    "fetched_at": "2026-11-18T20:56:06.449961+00:00",
     "quality_score": 100,
     "quality_label": "Improving"
   },
@@ -11909,7 +11909,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:44.426146+00:00",
+    "fetched_at": "2026-11-18T20:56:06.450254+00:00",
     "quality_score": 91,
     "quality_label": "Improving"
   },
@@ -11946,7 +11946,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:44.426280+00:00",
+    "fetched_at": "2026-11-18T20:56:06.450418+00:00",
     "quality_score": 78,
     "quality_label": "Improving"
   },
@@ -11983,7 +11983,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:43.172685+00:00",
+    "fetched_at": "2026-11-18T20:56:04.442461+00:00",
     "quality_score": 92,
     "quality_label": "Improving"
   },
@@ -12020,7 +12020,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:43.172785+00:00",
+    "fetched_at": "2026-11-18T20:56:04.442582+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -12057,7 +12057,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:43.173867+00:00",
+    "fetched_at": "2026-11-18T20:56:04.443885+00:00",
     "quality_score": 100,
     "quality_label": "Improving"
   },
@@ -12094,7 +12094,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:43.172834+00:00",
+    "fetched_at": "2026-11-18T20:56:04.442642+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -12131,7 +12131,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:43.172883+00:00",
+    "fetched_at": "2026-11-18T20:56:04.442700+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -12168,7 +12168,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:43.172916+00:00",
+    "fetched_at": "2026-11-18T20:56:04.442740+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -12205,7 +12205,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:43.174100+00:00",
+    "fetched_at": "2026-11-18T20:56:04.444185+00:00",
     "quality_score": 73,
     "quality_label": "Improving"
   },
@@ -12242,7 +12242,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:43.174356+00:00",
+    "fetched_at": "2026-11-18T20:56:04.444493+00:00",
     "quality_score": 26,
     "quality_label": "Weakening"
   },
@@ -12279,7 +12279,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:43.174581+00:00",
+    "fetched_at": "2026-11-18T20:56:04.444778+00:00",
     "quality_score": 52,
     "quality_label": "Mixed / stable"
   },
@@ -12316,7 +12316,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:43.174696+00:00",
+    "fetched_at": "2026-11-18T20:56:04.444923+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -12353,7 +12353,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:42.097703+00:00",
+    "fetched_at": "2026-11-18T20:56:03.125947+00:00",
     "quality_score": 60,
     "quality_label": "Mixed / stable"
   },
@@ -12390,7 +12390,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:42.097805+00:00",
+    "fetched_at": "2026-11-18T20:56:03.126071+00:00",
     "quality_score": 68,
     "quality_label": "Mixed / stable"
   },
@@ -12427,7 +12427,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:42.097892+00:00",
+    "fetched_at": "2026-11-18T20:56:03.126178+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -12464,7 +12464,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:42.098726+00:00",
+    "fetched_at": "2026-11-18T20:56:03.127324+00:00",
     "quality_score": 28,
     "quality_label": "Weakening"
   },
@@ -12501,7 +12501,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:42.097963+00:00",
+    "fetched_at": "2026-11-18T20:56:03.126267+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -12538,7 +12538,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:42.098000+00:00",
+    "fetched_at": "2026-11-18T20:56:03.126327+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -12575,7 +12575,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:42.098035+00:00",
+    "fetched_at": "2026-11-18T20:56:03.126371+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -12612,7 +12612,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:42.098062+00:00",
+    "fetched_at": "2026-11-18T20:56:03.126402+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -12649,7 +12649,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:42.098776+00:00",
+    "fetched_at": "2026-11-18T20:56:03.127394+00:00",
     "quality_score": 78,
     "quality_label": "Improving"
   },
@@ -12686,7 +12686,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:42.098823+00:00",
+    "fetched_at": "2026-11-18T20:56:03.127458+00:00",
     "quality_score": 86,
     "quality_label": "Improving"
   },
@@ -12723,7 +12723,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:42.098868+00:00",
+    "fetched_at": "2026-11-18T20:56:03.127517+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -12760,7 +12760,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:42.098892+00:00",
+    "fetched_at": "2026-11-18T20:56:03.127548+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -12797,7 +12797,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:41.136195+00:00",
+    "fetched_at": "2026-11-18T20:56:01.608009+00:00",
     "quality_score": 82,
     "quality_label": "Improving"
   },
@@ -12834,7 +12834,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:41.136318+00:00",
+    "fetched_at": "2026-11-18T20:56:01.608130+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -12871,7 +12871,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:41.136369+00:00",
+    "fetched_at": "2026-11-18T20:56:01.608190+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -12908,7 +12908,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:41.137403+00:00",
+    "fetched_at": "2026-11-18T20:56:01.609438+00:00",
     "quality_score": 40,
     "quality_label": "Mixed / stable"
   },
@@ -12945,7 +12945,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:41.136418+00:00",
+    "fetched_at": "2026-11-18T20:56:01.608249+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -12982,7 +12982,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:41.136451+00:00",
+    "fetched_at": "2026-11-18T20:56:01.608303+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -13019,7 +13019,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:41.137636+00:00",
+    "fetched_at": "2026-11-18T20:56:01.609742+00:00",
     "quality_score": 0,
     "quality_label": "Weakening"
   },
@@ -13056,7 +13056,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:41.137861+00:00",
+    "fetched_at": "2026-11-18T20:56:01.610034+00:00",
     "quality_score": 54,
     "quality_label": "Mixed / stable"
   },
@@ -13093,7 +13093,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:41.138085+00:00",
+    "fetched_at": "2026-11-18T20:56:01.610334+00:00",
     "quality_score": 39,
     "quality_label": "Weakening"
   },
@@ -13130,7 +13130,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:41.138198+00:00",
+    "fetched_at": "2026-11-18T20:56:01.610481+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -13167,7 +13167,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:40.136620+00:00",
+    "fetched_at": "2026-11-18T20:56:00.093478+00:00",
     "quality_score": 90,
     "quality_label": "Improving"
   },
@@ -13204,7 +13204,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:40.136736+00:00",
+    "fetched_at": "2026-11-18T20:56:00.093621+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -13241,7 +13241,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:40.137916+00:00",
+    "fetched_at": "2026-11-18T20:56:00.095093+00:00",
     "quality_score": 44,
     "quality_label": "Mixed / stable"
   },
@@ -13278,7 +13278,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:40.136823+00:00",
+    "fetched_at": "2026-11-18T20:56:00.093729+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -13315,7 +13315,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:40.136870+00:00",
+    "fetched_at": "2026-11-18T20:56:00.093788+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -13352,7 +13352,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:40.136915+00:00",
+    "fetched_at": "2026-11-18T20:56:00.093843+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -13389,7 +13389,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:40.136947+00:00",
+    "fetched_at": "2026-11-18T20:56:00.093882+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -13426,7 +13426,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:40.138143+00:00",
+    "fetched_at": "2026-11-18T20:56:00.095410+00:00",
     "quality_score": 94,
     "quality_label": "Improving"
   },
@@ -13463,7 +13463,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:40.138389+00:00",
+    "fetched_at": "2026-11-18T20:56:00.095707+00:00",
     "quality_score": 53,
     "quality_label": "Mixed / stable"
   },
@@ -13500,7 +13500,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:40.138614+00:00",
+    "fetched_at": "2026-11-18T20:56:00.095993+00:00",
     "quality_score": 60,
     "quality_label": "Mixed / stable"
   },
@@ -13537,7 +13537,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:40.138725+00:00",
+    "fetched_at": "2026-11-18T20:56:00.096135+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -13574,7 +13574,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:39.163320+00:00",
+    "fetched_at": "2026-11-18T20:55:58.742238+00:00",
     "quality_score": 89,
     "quality_label": "Improving"
   },
@@ -13611,7 +13611,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:39.163421+00:00",
+    "fetched_at": "2026-11-18T20:55:58.742376+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -13648,7 +13648,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:39.163469+00:00",
+    "fetched_at": "2026-11-18T20:55:58.742437+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -13685,7 +13685,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:39.164555+00:00",
+    "fetched_at": "2026-11-18T20:55:58.743704+00:00",
     "quality_score": 89,
     "quality_label": "Improving"
   },
@@ -13722,7 +13722,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:39.163514+00:00",
+    "fetched_at": "2026-11-18T20:55:58.742495+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -13759,7 +13759,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:39.163547+00:00",
+    "fetched_at": "2026-11-18T20:55:58.742536+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -13796,7 +13796,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:39.164789+00:00",
+    "fetched_at": "2026-11-18T20:55:58.744008+00:00",
     "quality_score": 41,
     "quality_label": "Mixed / stable"
   },
@@ -13833,7 +13833,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:39.165018+00:00",
+    "fetched_at": "2026-11-18T20:55:58.744338+00:00",
     "quality_score": 54,
     "quality_label": "Mixed / stable"
   },
@@ -13870,7 +13870,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:39.165134+00:00",
+    "fetched_at": "2026-11-18T20:55:58.744492+00:00",
     "quality_score": 78,
     "quality_label": "Improving"
   },
@@ -13907,7 +13907,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:38.000321+00:00",
+    "fetched_at": "2026-11-18T20:55:57.354068+00:00",
     "quality_score": 81,
     "quality_label": "Improving"
   },
@@ -13944,7 +13944,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:38.000422+00:00",
+    "fetched_at": "2026-11-18T20:55:57.354189+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -13981,7 +13981,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:38.000469+00:00",
+    "fetched_at": "2026-11-18T20:55:57.354250+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -14018,7 +14018,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:38.001455+00:00",
+    "fetched_at": "2026-11-18T20:55:57.355495+00:00",
     "quality_score": 98,
     "quality_label": "Improving"
   },
@@ -14055,7 +14055,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:38.000514+00:00",
+    "fetched_at": "2026-11-18T20:55:57.354326+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -14092,7 +14092,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:38.000546+00:00",
+    "fetched_at": "2026-11-18T20:55:57.354368+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -14129,7 +14129,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:38.001691+00:00",
+    "fetched_at": "2026-11-18T20:55:57.355800+00:00",
     "quality_score": 100,
     "quality_label": "Improving"
   },
@@ -14166,7 +14166,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:38.001914+00:00",
+    "fetched_at": "2026-11-18T20:55:57.356095+00:00",
     "quality_score": 98,
     "quality_label": "Improving"
   },
@@ -14203,7 +14203,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:38.002134+00:00",
+    "fetched_at": "2026-11-18T20:55:57.356398+00:00",
     "quality_score": 22,
     "quality_label": "Weakening"
   },
@@ -14240,7 +14240,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:38.002259+00:00",
+    "fetched_at": "2026-11-18T20:55:57.356542+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -14277,7 +14277,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:37.151553+00:00",
+    "fetched_at": "2026-11-18T20:55:56.220420+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -14314,7 +14314,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:37.151664+00:00",
+    "fetched_at": "2026-11-18T20:55:56.220557+00:00",
     "quality_score": 57,
     "quality_label": "Mixed / stable"
   },
@@ -14351,7 +14351,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:37.151762+00:00",
+    "fetched_at": "2026-11-18T20:55:56.220682+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -14388,7 +14388,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:37.152717+00:00",
+    "fetched_at": "2026-11-18T20:55:56.221782+00:00",
     "quality_score": 75,
     "quality_label": "Improving"
   },
@@ -14425,7 +14425,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:37.151841+00:00",
+    "fetched_at": "2026-11-18T20:55:56.220783+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -14462,7 +14462,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:37.151884+00:00",
+    "fetched_at": "2026-11-18T20:55:56.220837+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -14499,7 +14499,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:37.151934+00:00",
+    "fetched_at": "2026-11-18T20:55:56.220891+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -14536,7 +14536,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:37.151966+00:00",
+    "fetched_at": "2026-11-18T20:55:56.220927+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -14573,7 +14573,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:37.152782+00:00",
+    "fetched_at": "2026-11-18T20:55:56.221863+00:00",
     "quality_score": 98,
     "quality_label": "Improving"
   },
@@ -14610,7 +14610,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:37.152843+00:00",
+    "fetched_at": "2026-11-18T20:55:56.221940+00:00",
     "quality_score": 84,
     "quality_label": "Improving"
   },
@@ -14647,7 +14647,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:37.152901+00:00",
+    "fetched_at": "2026-11-18T20:55:56.222013+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -14684,7 +14684,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:37.152931+00:00",
+    "fetched_at": "2026-11-18T20:55:56.222050+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -14721,7 +14721,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:36.064288+00:00",
+    "fetched_at": "2026-11-18T20:55:54.867752+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -14758,7 +14758,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:36.064407+00:00",
+    "fetched_at": "2026-11-18T20:55:54.867894+00:00",
     "quality_score": 90,
     "quality_label": "Improving"
   },
@@ -14795,7 +14795,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:36.064493+00:00",
+    "fetched_at": "2026-11-18T20:55:54.868002+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -14832,7 +14832,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:36.065556+00:00",
+    "fetched_at": "2026-11-18T20:55:54.869330+00:00",
     "quality_score": 100,
     "quality_label": "Improving"
   },
@@ -14869,7 +14869,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:36.064539+00:00",
+    "fetched_at": "2026-11-18T20:55:54.868059+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -14906,7 +14906,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:36.064583+00:00",
+    "fetched_at": "2026-11-18T20:55:54.868114+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -14943,7 +14943,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:36.064617+00:00",
+    "fetched_at": "2026-11-18T20:55:54.868155+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -14980,7 +14980,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:36.065785+00:00",
+    "fetched_at": "2026-11-18T20:55:54.869634+00:00",
     "quality_score": 52,
     "quality_label": "Mixed / stable"
   },
@@ -15017,7 +15017,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:36.066008+00:00",
+    "fetched_at": "2026-11-18T20:55:54.869927+00:00",
     "quality_score": 70,
     "quality_label": "Improving"
   },
@@ -15054,7 +15054,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:36.066122+00:00",
+    "fetched_at": "2026-11-18T20:55:54.870075+00:00",
     "quality_score": 63,
     "quality_label": "Mixed / stable"
   },
@@ -15091,7 +15091,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:35.199278+00:00",
+    "fetched_at": "2026-11-18T20:55:53.685315+00:00",
     "quality_score": 74,
     "quality_label": "Improving"
   },
@@ -15128,7 +15128,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:35.199379+00:00",
+    "fetched_at": "2026-11-18T20:55:53.685440+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -15165,7 +15165,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:35.199427+00:00",
+    "fetched_at": "2026-11-18T20:55:53.685506+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -15202,7 +15202,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:35.200474+00:00",
+    "fetched_at": "2026-11-18T20:55:53.686753+00:00",
     "quality_score": 23,
     "quality_label": "Weakening"
   },
@@ -15239,7 +15239,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:35.199473+00:00",
+    "fetched_at": "2026-11-18T20:55:53.685565+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -15276,7 +15276,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:35.199507+00:00",
+    "fetched_at": "2026-11-18T20:55:53.685607+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -15313,7 +15313,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:35.200705+00:00",
+    "fetched_at": "2026-11-18T20:55:53.687054+00:00",
     "quality_score": 47,
     "quality_label": "Mixed / stable"
   },
@@ -15350,7 +15350,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:35.200929+00:00",
+    "fetched_at": "2026-11-18T20:55:53.687362+00:00",
     "quality_score": 93,
     "quality_label": "Improving"
   },
@@ -15387,7 +15387,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:35.201043+00:00",
+    "fetched_at": "2026-11-18T20:55:53.687514+00:00",
     "quality_score": 55,
     "quality_label": "Mixed / stable"
   },
@@ -15424,7 +15424,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:34.329360+00:00",
+    "fetched_at": "2026-11-18T20:55:52.469387+00:00",
     "quality_score": 16,
     "quality_label": "Weakening"
   },
@@ -15461,7 +15461,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:34.329462+00:00",
+    "fetched_at": "2026-11-18T20:55:52.469510+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -15498,7 +15498,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:34.330464+00:00",
+    "fetched_at": "2026-11-18T20:55:52.470736+00:00",
     "quality_score": 89,
     "quality_label": "Improving"
   },
@@ -15535,7 +15535,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:34.329512+00:00",
+    "fetched_at": "2026-11-18T20:55:52.469570+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -15572,7 +15572,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:34.329559+00:00",
+    "fetched_at": "2026-11-18T20:55:52.469627+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -15609,7 +15609,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:34.329593+00:00",
+    "fetched_at": "2026-11-18T20:55:52.469668+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -15646,7 +15646,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:34.330694+00:00",
+    "fetched_at": "2026-11-18T20:55:52.471030+00:00",
     "quality_score": 58,
     "quality_label": "Mixed / stable"
   },
@@ -15683,7 +15683,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:34.330917+00:00",
+    "fetched_at": "2026-11-18T20:55:52.471331+00:00",
     "quality_score": 100,
     "quality_label": "Improving"
   },
@@ -15720,7 +15720,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:34.331133+00:00",
+    "fetched_at": "2026-11-18T20:55:52.471617+00:00",
     "quality_score": 73,
     "quality_label": "Improving"
   },
@@ -15757,7 +15757,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:34.331258+00:00",
+    "fetched_at": "2026-11-18T20:55:52.471760+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -15794,7 +15794,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:31.761055+00:00",
+    "fetched_at": "2026-11-18T20:55:48.110308+00:00",
     "quality_score": 98,
     "quality_label": "Improving"
   },
@@ -15831,7 +15831,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:31.761160+00:00",
+    "fetched_at": "2026-11-18T20:55:48.110433+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -15868,7 +15868,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:31.761208+00:00",
+    "fetched_at": "2026-11-18T20:55:48.110492+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -15905,7 +15905,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:31.762210+00:00",
+    "fetched_at": "2026-11-18T20:55:48.111746+00:00",
     "quality_score": 39,
     "quality_label": "Weakening"
   },
@@ -15942,7 +15942,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:31.761277+00:00",
+    "fetched_at": "2026-11-18T20:55:48.110554+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -15979,7 +15979,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:31.761312+00:00",
+    "fetched_at": "2026-11-18T20:55:48.110594+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -16016,7 +16016,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:31.762462+00:00",
+    "fetched_at": "2026-11-18T20:55:48.112046+00:00",
     "quality_score": 0,
     "quality_label": "Weakening"
   },
@@ -16053,7 +16053,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:31.762686+00:00",
+    "fetched_at": "2026-11-18T20:55:48.112353+00:00",
     "quality_score": 52,
     "quality_label": "Mixed / stable"
   },
@@ -16090,7 +16090,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:31.762801+00:00",
+    "fetched_at": "2026-11-18T20:55:48.112508+00:00",
     "quality_score": 73,
     "quality_label": "Improving"
   },
@@ -16127,7 +16127,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:30.754112+00:00",
+    "fetched_at": "2026-11-18T20:55:46.605652+00:00",
     "quality_score": 42,
     "quality_label": "Mixed / stable"
   },
@@ -16164,7 +16164,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:30.754210+00:00",
+    "fetched_at": "2026-11-18T20:55:46.605774+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -16201,7 +16201,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:30.754280+00:00",
+    "fetched_at": "2026-11-18T20:55:46.605834+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -16238,7 +16238,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:30.755299+00:00",
+    "fetched_at": "2026-11-18T20:55:46.607086+00:00",
     "quality_score": 71,
     "quality_label": "Improving"
   },
@@ -16275,7 +16275,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:30.754328+00:00",
+    "fetched_at": "2026-11-18T20:55:46.605891+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -16312,7 +16312,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:30.754363+00:00",
+    "fetched_at": "2026-11-18T20:55:46.605931+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -16349,7 +16349,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:30.755534+00:00",
+    "fetched_at": "2026-11-18T20:55:46.607408+00:00",
     "quality_score": 79,
     "quality_label": "Improving"
   },
@@ -16386,7 +16386,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:30.755760+00:00",
+    "fetched_at": "2026-11-18T20:55:46.607703+00:00",
     "quality_score": 100,
     "quality_label": "Improving"
   },
@@ -16423,7 +16423,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:30.755889+00:00",
+    "fetched_at": "2026-11-18T20:55:46.607852+00:00",
     "quality_score": 62,
     "quality_label": "Mixed / stable"
   },
@@ -16460,7 +16460,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:29.860395+00:00",
+    "fetched_at": "2026-11-18T20:55:45.301945+00:00",
     "quality_score": 16,
     "quality_label": "Weakening"
   },
@@ -16497,7 +16497,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:29.860510+00:00",
+    "fetched_at": "2026-11-18T20:55:45.302087+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -16534,7 +16534,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:29.861684+00:00",
+    "fetched_at": "2026-11-18T20:55:45.303534+00:00",
     "quality_score": 44,
     "quality_label": "Mixed / stable"
   },
@@ -16571,7 +16571,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:29.860595+00:00",
+    "fetched_at": "2026-11-18T20:55:45.302195+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -16608,7 +16608,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:29.860641+00:00",
+    "fetched_at": "2026-11-18T20:55:45.302253+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -16645,7 +16645,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:29.860685+00:00",
+    "fetched_at": "2026-11-18T20:55:45.302323+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -16682,7 +16682,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:29.860717+00:00",
+    "fetched_at": "2026-11-18T20:55:45.302362+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -16719,7 +16719,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:29.861910+00:00",
+    "fetched_at": "2026-11-18T20:55:45.303840+00:00",
     "quality_score": 37,
     "quality_label": "Weakening"
   },
@@ -16756,7 +16756,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:29.862136+00:00",
+    "fetched_at": "2026-11-18T20:55:45.304137+00:00",
     "quality_score": 100,
     "quality_label": "Improving"
   },
@@ -16793,7 +16793,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:29.862377+00:00",
+    "fetched_at": "2026-11-18T20:55:45.304441+00:00",
     "quality_score": 73,
     "quality_label": "Improving"
   },
@@ -16830,7 +16830,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:29.862490+00:00",
+    "fetched_at": "2026-11-18T20:55:45.304587+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -16867,7 +16867,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:28.608456+00:00",
+    "fetched_at": "2026-11-18T20:55:43.937612+00:00",
     "quality_score": 42,
     "quality_label": "Mixed / stable"
   },
@@ -16904,7 +16904,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:28.608557+00:00",
+    "fetched_at": "2026-11-18T20:55:43.937738+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -16941,7 +16941,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:28.608605+00:00",
+    "fetched_at": "2026-11-18T20:55:43.937798+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -16978,7 +16978,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:28.609653+00:00",
+    "fetched_at": "2026-11-18T20:55:43.939083+00:00",
     "quality_score": 22,
     "quality_label": "Weakening"
   },
@@ -17015,7 +17015,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:28.608651+00:00",
+    "fetched_at": "2026-11-18T20:55:43.937857+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -17052,7 +17052,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:28.608683+00:00",
+    "fetched_at": "2026-11-18T20:55:43.937897+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -17089,7 +17089,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:28.609884+00:00",
+    "fetched_at": "2026-11-18T20:55:43.939404+00:00",
     "quality_score": 64,
     "quality_label": "Mixed / stable"
   },
@@ -17126,7 +17126,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:28.610107+00:00",
+    "fetched_at": "2026-11-18T20:55:43.939702+00:00",
     "quality_score": 54,
     "quality_label": "Mixed / stable"
   },
@@ -17163,7 +17163,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:28.610352+00:00",
+    "fetched_at": "2026-11-18T20:55:43.939992+00:00",
     "quality_score": 78,
     "quality_label": "Improving"
   },
@@ -17200,7 +17200,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:28.610465+00:00",
+    "fetched_at": "2026-11-18T20:55:43.940135+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -17237,7 +17237,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:27.748398+00:00",
+    "fetched_at": "2026-11-18T20:55:42.437585+00:00",
     "quality_score": 86,
     "quality_label": "Improving"
   },
@@ -17274,7 +17274,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:27.748488+00:00",
+    "fetched_at": "2026-11-18T20:55:42.437691+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -17311,7 +17311,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:27.748529+00:00",
+    "fetched_at": "2026-11-18T20:55:42.437739+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -17348,7 +17348,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:27.749194+00:00",
+    "fetched_at": "2026-11-18T20:55:42.438584+00:00",
     "quality_score": 71,
     "quality_label": "Improving"
   },
@@ -17385,7 +17385,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:27.748568+00:00",
+    "fetched_at": "2026-11-18T20:55:42.437785+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -17422,7 +17422,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:27.748597+00:00",
+    "fetched_at": "2026-11-18T20:55:42.437819+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -17459,7 +17459,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:27.749262+00:00",
+    "fetched_at": "2026-11-18T20:55:42.438651+00:00",
     "quality_score": 39,
     "quality_label": "Weakening"
   },
@@ -17496,7 +17496,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:27.749320+00:00",
+    "fetched_at": "2026-11-18T20:55:42.438713+00:00",
     "quality_score": 78,
     "quality_label": "Improving"
   },
@@ -17533,7 +17533,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:27.749347+00:00",
+    "fetched_at": "2026-11-18T20:55:42.438744+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -17570,7 +17570,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:26.884695+00:00",
+    "fetched_at": "2026-11-18T20:55:40.690874+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -17607,7 +17607,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:26.884808+00:00",
+    "fetched_at": "2026-11-18T20:55:40.691017+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -17644,7 +17644,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:26.884894+00:00",
+    "fetched_at": "2026-11-18T20:55:40.691128+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -17681,7 +17681,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:26.885993+00:00",
+    "fetched_at": "2026-11-18T20:55:40.692496+00:00",
     "quality_score": 39,
     "quality_label": "Weakening"
   },
@@ -17718,7 +17718,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:26.884940+00:00",
+    "fetched_at": "2026-11-18T20:55:40.691186+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -17755,7 +17755,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:26.884985+00:00",
+    "fetched_at": "2026-11-18T20:55:40.691241+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -17792,7 +17792,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:26.885018+00:00",
+    "fetched_at": "2026-11-18T20:55:40.691282+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -17829,7 +17829,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:26.886223+00:00",
+    "fetched_at": "2026-11-18T20:55:40.692798+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -17866,7 +17866,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:26.886477+00:00",
+    "fetched_at": "2026-11-18T20:55:40.693094+00:00",
     "quality_score": 100,
     "quality_label": "Improving"
   },
@@ -17903,7 +17903,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:26.886703+00:00",
+    "fetched_at": "2026-11-18T20:55:40.693432+00:00",
     "quality_score": 73,
     "quality_label": "Improving"
   },
@@ -17940,7 +17940,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:26.886817+00:00",
+    "fetched_at": "2026-11-18T20:55:40.693580+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -17977,7 +17977,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:25.997100+00:00",
+    "fetched_at": "2026-11-18T20:55:39.477172+00:00",
     "quality_score": 82,
     "quality_label": "Improving"
   },
@@ -18014,7 +18014,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:25.997200+00:00",
+    "fetched_at": "2026-11-18T20:55:39.477309+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -18051,7 +18051,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:25.997269+00:00",
+    "fetched_at": "2026-11-18T20:55:39.477371+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -18088,7 +18088,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:25.998251+00:00",
+    "fetched_at": "2026-11-18T20:55:39.478626+00:00",
     "quality_score": 32,
     "quality_label": "Weakening"
   },
@@ -18125,7 +18125,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:25.997318+00:00",
+    "fetched_at": "2026-11-18T20:55:39.477434+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -18162,7 +18162,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:25.997351+00:00",
+    "fetched_at": "2026-11-18T20:55:39.477476+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -18199,7 +18199,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:25.998490+00:00",
+    "fetched_at": "2026-11-18T20:55:39.478956+00:00",
     "quality_score": 100,
     "quality_label": "Improving"
   },
@@ -18236,7 +18236,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:25.998717+00:00",
+    "fetched_at": "2026-11-18T20:55:39.479251+00:00",
     "quality_score": 86,
     "quality_label": "Improving"
   },
@@ -18273,7 +18273,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:25.998941+00:00",
+    "fetched_at": "2026-11-18T20:55:39.479556+00:00",
     "quality_score": 78,
     "quality_label": "Improving"
   },
@@ -18310,7 +18310,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:25.999053+00:00",
+    "fetched_at": "2026-11-18T20:55:39.479700+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -18347,7 +18347,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:25.081584+00:00",
+    "fetched_at": "2026-11-18T20:55:38.278016+00:00",
     "quality_score": 47,
     "quality_label": "Mixed / stable"
   },
@@ -18384,7 +18384,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:25.081828+00:00",
+    "fetched_at": "2026-11-18T20:55:38.278347+00:00",
     "quality_score": 37,
     "quality_label": "Weakening"
   },
@@ -18421,7 +18421,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:25.082056+00:00",
+    "fetched_at": "2026-11-18T20:55:38.278651+00:00",
     "quality_score": 0,
     "quality_label": "Weakening"
   },
@@ -18458,7 +18458,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:25.082300+00:00",
+    "fetched_at": "2026-11-18T20:55:38.278974+00:00",
     "quality_score": 78,
     "quality_label": "Improving"
   },
@@ -18495,7 +18495,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:25.082423+00:00",
+    "fetched_at": "2026-11-18T20:55:38.279126+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -18532,7 +18532,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:22.406504+00:00",
+    "fetched_at": "2026-11-18T20:55:34.739018+00:00",
     "quality_score": 34,
     "quality_label": "Weakening"
   },
@@ -18569,7 +18569,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:22.406620+00:00",
+    "fetched_at": "2026-11-18T20:55:34.739165+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -18606,7 +18606,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:22.407770+00:00",
+    "fetched_at": "2026-11-18T20:55:34.740613+00:00",
     "quality_score": 0,
     "quality_label": "Weakening"
   },
@@ -18643,7 +18643,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:22.406705+00:00",
+    "fetched_at": "2026-11-18T20:55:34.739275+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -18680,7 +18680,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:22.406752+00:00",
+    "fetched_at": "2026-11-18T20:55:34.739348+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -18717,7 +18717,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:22.406798+00:00",
+    "fetched_at": "2026-11-18T20:55:34.739403+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -18754,7 +18754,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:22.406830+00:00",
+    "fetched_at": "2026-11-18T20:55:34.739441+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -18791,7 +18791,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:22.408020+00:00",
+    "fetched_at": "2026-11-18T20:55:34.740920+00:00",
     "quality_score": 70,
     "quality_label": "Improving"
   },
@@ -18828,7 +18828,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:22.408283+00:00",
+    "fetched_at": "2026-11-18T20:55:34.741216+00:00",
     "quality_score": 100,
     "quality_label": "Improving"
   },
@@ -18865,7 +18865,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:22.408521+00:00",
+    "fetched_at": "2026-11-18T20:55:34.741524+00:00",
     "quality_score": 63,
     "quality_label": "Mixed / stable"
   },
@@ -18902,7 +18902,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:22.408638+00:00",
+    "fetched_at": "2026-11-18T20:55:34.741672+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -18939,7 +18939,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:19.725337+00:00",
+    "fetched_at": "2026-11-18T20:55:30.858542+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -18976,7 +18976,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:19.725449+00:00",
+    "fetched_at": "2026-11-18T20:55:30.858684+00:00",
     "quality_score": 81,
     "quality_label": "Improving"
   },
@@ -19013,7 +19013,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:19.725532+00:00",
+    "fetched_at": "2026-11-18T20:55:30.858788+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -19050,7 +19050,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:19.726419+00:00",
+    "fetched_at": "2026-11-18T20:55:30.859830+00:00",
     "quality_score": 58,
     "quality_label": "Mixed / stable"
   },
@@ -19087,7 +19087,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:19.725576+00:00",
+    "fetched_at": "2026-11-18T20:55:30.858843+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -19124,7 +19124,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:19.725620+00:00",
+    "fetched_at": "2026-11-18T20:55:30.858897+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -19161,7 +19161,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:19.725651+00:00",
+    "fetched_at": "2026-11-18T20:55:30.858935+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -19198,7 +19198,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:19.726482+00:00",
+    "fetched_at": "2026-11-18T20:55:30.859914+00:00",
     "quality_score": 98,
     "quality_label": "Improving"
   },
@@ -19235,7 +19235,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:19.726540+00:00",
+    "fetched_at": "2026-11-18T20:55:30.859991+00:00",
     "quality_score": 84,
     "quality_label": "Improving"
   },
@@ -19272,7 +19272,7 @@
     "cash_metrics_applicable": false,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:19.726569+00:00",
+    "fetched_at": "2026-11-18T20:55:30.860029+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -19309,7 +19309,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:18.952842+00:00",
+    "fetched_at": "2026-11-18T20:55:29.625711+00:00",
     "quality_score": 57,
     "quality_label": "Mixed / stable"
   },
@@ -19346,7 +19346,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:18.952955+00:00",
+    "fetched_at": "2026-11-18T20:55:29.625854+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -19383,7 +19383,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:18.953040+00:00",
+    "fetched_at": "2026-11-18T20:55:29.625959+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -19420,7 +19420,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:18.954072+00:00",
+    "fetched_at": "2026-11-18T20:55:29.627244+00:00",
     "quality_score": 44,
     "quality_label": "Mixed / stable"
   },
@@ -19457,7 +19457,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:18.953086+00:00",
+    "fetched_at": "2026-11-18T20:55:29.626018+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -19494,7 +19494,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:18.953129+00:00",
+    "fetched_at": "2026-11-18T20:55:29.626076+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -19531,7 +19531,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:18.953160+00:00",
+    "fetched_at": "2026-11-18T20:55:29.626116+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -19568,7 +19568,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:18.954323+00:00",
+    "fetched_at": "2026-11-18T20:55:29.627567+00:00",
     "quality_score": 87,
     "quality_label": "Improving"
   },
@@ -19605,7 +19605,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:18.954551+00:00",
+    "fetched_at": "2026-11-18T20:55:29.627864+00:00",
     "quality_score": 78,
     "quality_label": "Improving"
   },
@@ -19642,7 +19642,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:18.954774+00:00",
+    "fetched_at": "2026-11-18T20:55:29.628152+00:00",
     "quality_score": 73,
     "quality_label": "Improving"
   },
@@ -19679,7 +19679,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:18.954887+00:00",
+    "fetched_at": "2026-11-18T20:55:29.628304+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -19716,7 +19716,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:18.132656+00:00",
+    "fetched_at": "2026-11-18T20:55:28.365346+00:00",
     "quality_score": 70,
     "quality_label": "Improving"
   },
@@ -19753,7 +19753,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:18.132894+00:00",
+    "fetched_at": "2026-11-18T20:55:28.365679+00:00",
     "quality_score": 6,
     "quality_label": "Weakening"
   },
@@ -19790,7 +19790,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:18.133119+00:00",
+    "fetched_at": "2026-11-18T20:55:28.365979+00:00",
     "quality_score": 62,
     "quality_label": "Mixed / stable"
   },
@@ -19827,7 +19827,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:18.133364+00:00",
+    "fetched_at": "2026-11-18T20:55:28.366275+00:00",
     "quality_score": 22,
     "quality_label": "Weakening"
   },
@@ -19864,7 +19864,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:18.133480+00:00",
+    "fetched_at": "2026-11-18T20:55:28.366436+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -19901,7 +19901,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:17.259017+00:00",
+    "fetched_at": "2026-11-18T20:55:27.144417+00:00",
     "quality_score": 66,
     "quality_label": "Mixed / stable"
   },
@@ -19938,7 +19938,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:17.259133+00:00",
+    "fetched_at": "2026-11-18T20:55:27.144560+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -19975,7 +19975,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:17.259233+00:00",
+    "fetched_at": "2026-11-18T20:55:27.144689+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -20012,7 +20012,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:17.260462+00:00",
+    "fetched_at": "2026-11-18T20:55:27.146139+00:00",
     "quality_score": 94,
     "quality_label": "Improving"
   },
@@ -20049,7 +20049,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:17.259336+00:00",
+    "fetched_at": "2026-11-18T20:55:27.144794+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -20086,7 +20086,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:17.259382+00:00",
+    "fetched_at": "2026-11-18T20:55:27.144849+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -20123,7 +20123,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:17.259425+00:00",
+    "fetched_at": "2026-11-18T20:55:27.144904+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -20160,7 +20160,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:17.259455+00:00",
+    "fetched_at": "2026-11-18T20:55:27.144941+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -20197,7 +20197,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:17.260692+00:00",
+    "fetched_at": "2026-11-18T20:55:27.146458+00:00",
     "quality_score": 63,
     "quality_label": "Mixed / stable"
   },
@@ -20234,7 +20234,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:17.260917+00:00",
+    "fetched_at": "2026-11-18T20:55:27.146751+00:00",
     "quality_score": 87,
     "quality_label": "Improving"
   },
@@ -20271,7 +20271,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:17.261137+00:00",
+    "fetched_at": "2026-11-18T20:55:27.147037+00:00",
     "quality_score": 40,
     "quality_label": "Mixed / stable"
   },
@@ -20308,7 +20308,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:17.261260+00:00",
+    "fetched_at": "2026-11-18T20:55:27.147178+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -20345,7 +20345,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:16.488160+00:00",
+    "fetched_at": "2026-11-18T20:55:25.723399+00:00",
     "quality_score": 92,
     "quality_label": "Improving"
   },
@@ -20382,7 +20382,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:16.488295+00:00",
+    "fetched_at": "2026-11-18T20:55:25.723542+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -20419,7 +20419,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:16.489414+00:00",
+    "fetched_at": "2026-11-18T20:55:25.724905+00:00",
     "quality_score": 96,
     "quality_label": "Improving"
   },
@@ -20456,7 +20456,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:16.488382+00:00",
+    "fetched_at": "2026-11-18T20:55:25.723650+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -20493,7 +20493,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:16.488430+00:00",
+    "fetched_at": "2026-11-18T20:55:25.723709+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -20530,7 +20530,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:16.488476+00:00",
+    "fetched_at": "2026-11-18T20:55:25.723765+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -20567,7 +20567,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:16.488508+00:00",
+    "fetched_at": "2026-11-18T20:55:25.723803+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -20604,7 +20604,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:16.489653+00:00",
+    "fetched_at": "2026-11-18T20:55:25.725212+00:00",
     "quality_score": 54,
     "quality_label": "Mixed / stable"
   },
@@ -20641,7 +20641,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:16.489886+00:00",
+    "fetched_at": "2026-11-18T20:55:25.725529+00:00",
     "quality_score": 96,
     "quality_label": "Improving"
   },
@@ -20678,7 +20678,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:16.490003+00:00",
+    "fetched_at": "2026-11-18T20:55:25.725680+00:00",
     "quality_score": 22,
     "quality_label": "Weakening"
   },
@@ -20715,7 +20715,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:15.650545+00:00",
+    "fetched_at": "2026-11-18T20:55:24.532014+00:00",
     "quality_score": 82,
     "quality_label": "Improving"
   },
@@ -20752,7 +20752,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:15.650659+00:00",
+    "fetched_at": "2026-11-18T20:55:24.532163+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -20789,7 +20789,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:15.650743+00:00",
+    "fetched_at": "2026-11-18T20:55:24.532270+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -20826,7 +20826,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:15.651819+00:00",
+    "fetched_at": "2026-11-18T20:55:24.533624+00:00",
     "quality_score": 100,
     "quality_label": "Improving"
   },
@@ -20863,7 +20863,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:15.650789+00:00",
+    "fetched_at": "2026-11-18T20:55:24.532342+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -20900,7 +20900,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:15.650834+00:00",
+    "fetched_at": "2026-11-18T20:55:24.532398+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -20937,7 +20937,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:15.650866+00:00",
+    "fetched_at": "2026-11-18T20:55:24.532435+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -20974,7 +20974,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:15.652062+00:00",
+    "fetched_at": "2026-11-18T20:55:24.533925+00:00",
     "quality_score": 100,
     "quality_label": "Improving"
   },
@@ -21011,7 +21011,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:15.652313+00:00",
+    "fetched_at": "2026-11-18T20:55:24.534260+00:00",
     "quality_score": 100,
     "quality_label": "Improving"
   },
@@ -21048,7 +21048,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:15.652537+00:00",
+    "fetched_at": "2026-11-18T20:55:24.534591+00:00",
     "quality_score": 78,
     "quality_label": "Improving"
   },
@@ -21085,7 +21085,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:15.652650+00:00",
+    "fetched_at": "2026-11-18T20:55:24.534735+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -21122,7 +21122,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:14.810701+00:00",
+    "fetched_at": "2026-11-18T20:55:23.199691+00:00",
     "quality_score": 82,
     "quality_label": "Improving"
   },
@@ -21159,7 +21159,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:14.810798+00:00",
+    "fetched_at": "2026-11-18T20:55:23.199814+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -21196,7 +21196,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:14.810847+00:00",
+    "fetched_at": "2026-11-18T20:55:23.199874+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -21233,7 +21233,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:14.811895+00:00",
+    "fetched_at": "2026-11-18T20:55:23.201161+00:00",
     "quality_score": 55,
     "quality_label": "Mixed / stable"
   },
@@ -21270,7 +21270,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:14.810892+00:00",
+    "fetched_at": "2026-11-18T20:55:23.199932+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -21307,7 +21307,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:14.810923+00:00",
+    "fetched_at": "2026-11-18T20:55:23.199972+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -21344,7 +21344,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:14.812134+00:00",
+    "fetched_at": "2026-11-18T20:55:23.201481+00:00",
     "quality_score": 55,
     "quality_label": "Mixed / stable"
   },
@@ -21381,7 +21381,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:14.812388+00:00",
+    "fetched_at": "2026-11-18T20:55:23.201775+00:00",
     "quality_score": 62,
     "quality_label": "Mixed / stable"
   },
@@ -21418,7 +21418,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:14.812612+00:00",
+    "fetched_at": "2026-11-18T20:55:23.202061+00:00",
     "quality_score": 22,
     "quality_label": "Weakening"
   },
@@ -21455,7 +21455,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:14.812724+00:00",
+    "fetched_at": "2026-11-18T20:55:23.202204+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -21492,7 +21492,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:14.007234+00:00",
+    "fetched_at": "2026-11-18T20:55:21.726118+00:00",
     "quality_score": 68,
     "quality_label": "Mixed / stable"
   },
@@ -21529,7 +21529,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:14.007373+00:00",
+    "fetched_at": "2026-11-18T20:55:21.726262+00:00",
     "quality_score": 59,
     "quality_label": "Mixed / stable"
   },
@@ -21566,7 +21566,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:14.007459+00:00",
+    "fetched_at": "2026-11-18T20:55:21.726385+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -21603,7 +21603,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:14.008574+00:00",
+    "fetched_at": "2026-11-18T20:55:21.727747+00:00",
     "quality_score": 93,
     "quality_label": "Improving"
   },
@@ -21640,7 +21640,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:14.007506+00:00",
+    "fetched_at": "2026-11-18T20:55:21.726443+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -21677,7 +21677,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:14.007550+00:00",
+    "fetched_at": "2026-11-18T20:55:21.726499+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -21714,7 +21714,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:14.007584+00:00",
+    "fetched_at": "2026-11-18T20:55:21.726540+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -21751,7 +21751,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:14.008807+00:00",
+    "fetched_at": "2026-11-18T20:55:21.728050+00:00",
     "quality_score": 86,
     "quality_label": "Improving"
   },
@@ -21788,7 +21788,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:14.009035+00:00",
+    "fetched_at": "2026-11-18T20:55:21.728358+00:00",
     "quality_score": 93,
     "quality_label": "Improving"
   },
@@ -21825,7 +21825,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:14.009291+00:00",
+    "fetched_at": "2026-11-18T20:55:21.728648+00:00",
     "quality_score": 78,
     "quality_label": "Improving"
   },
@@ -21862,7 +21862,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:14.009412+00:00",
+    "fetched_at": "2026-11-18T20:55:21.728795+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -21899,7 +21899,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:13.022910+00:00",
+    "fetched_at": "2026-11-18T20:55:20.601808+00:00",
     "quality_score": 98,
     "quality_label": "Improving"
   },
@@ -21936,7 +21936,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:13.023008+00:00",
+    "fetched_at": "2026-11-18T20:55:20.601933+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -21973,7 +21973,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:13.023056+00:00",
+    "fetched_at": "2026-11-18T20:55:20.601993+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -22010,7 +22010,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:13.024084+00:00",
+    "fetched_at": "2026-11-18T20:55:20.603245+00:00",
     "quality_score": 36,
     "quality_label": "Weakening"
   },
@@ -22047,7 +22047,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:13.023101+00:00",
+    "fetched_at": "2026-11-18T20:55:20.602049+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -22084,7 +22084,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:13.023134+00:00",
+    "fetched_at": "2026-11-18T20:55:20.602088+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -22121,7 +22121,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:13.024349+00:00",
+    "fetched_at": "2026-11-18T20:55:20.603569+00:00",
     "quality_score": 96,
     "quality_label": "Improving"
   },
@@ -22158,7 +22158,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:13.024582+00:00",
+    "fetched_at": "2026-11-18T20:55:20.603861+00:00",
     "quality_score": 81,
     "quality_label": "Improving"
   },
@@ -22195,7 +22195,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:13.024807+00:00",
+    "fetched_at": "2026-11-18T20:55:20.604146+00:00",
     "quality_score": 78,
     "quality_label": "Improving"
   },
@@ -22232,7 +22232,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:13.024920+00:00",
+    "fetched_at": "2026-11-18T20:55:20.604297+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -22269,7 +22269,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:12.295331+00:00",
+    "fetched_at": "2026-11-18T20:55:19.448357+00:00",
     "quality_score": 98,
     "quality_label": "Improving"
   },
@@ -22306,7 +22306,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:12.295452+00:00",
+    "fetched_at": "2026-11-18T20:55:19.448508+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -22343,7 +22343,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:12.295539+00:00",
+    "fetched_at": "2026-11-18T20:55:19.448618+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -22380,7 +22380,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:12.296657+00:00",
+    "fetched_at": "2026-11-18T20:55:19.449981+00:00",
     "quality_score": 91,
     "quality_label": "Improving"
   },
@@ -22417,7 +22417,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:12.295587+00:00",
+    "fetched_at": "2026-11-18T20:55:19.448678+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -22454,7 +22454,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:12.295632+00:00",
+    "fetched_at": "2026-11-18T20:55:19.448736+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -22491,7 +22491,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:12.295662+00:00",
+    "fetched_at": "2026-11-18T20:55:19.448774+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   },
@@ -22528,7 +22528,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:12.296888+00:00",
+    "fetched_at": "2026-11-18T20:55:19.450305+00:00",
     "quality_score": 54,
     "quality_label": "Mixed / stable"
   },
@@ -22565,7 +22565,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:12.297110+00:00",
+    "fetched_at": "2026-11-18T20:55:19.450608+00:00",
     "quality_score": 28,
     "quality_label": "Weakening"
   },
@@ -22602,7 +22602,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:12.297360+00:00",
+    "fetched_at": "2026-11-18T20:55:19.450901+00:00",
     "quality_score": 62,
     "quality_label": "Mixed / stable"
   },
@@ -22639,7 +22639,7 @@
     "cash_metrics_applicable": true,
     "currency": "INR",
     "source": "Yahoo Finance via yfinance",
-    "fetched_at": "2026-11-17T21:22:12.297475+00:00",
+    "fetched_at": "2026-11-18T20:55:19.451045+00:00",
     "quality_score": 50,
     "quality_label": "Mixed / stable"
   }
